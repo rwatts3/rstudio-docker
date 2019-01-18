@@ -7,7 +7,7 @@
 ############################################################
 
 # Set the base image to rocker/rstudio-stable
-FROM rocker/rstudio-stable:3.4.1
+FROM rocker/rstudio-stable:latest
 
 # File Author / Maintainer
 MAINTAINER Rafael Hernandez <https://github.com/fikipollo>
